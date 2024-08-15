@@ -1,6 +1,6 @@
 # Comparative-Evaluation-of-Sentiment-Analysis-Techniques-on-Amazon-Reviews-
 Sentiment Analysis of Amazon Reviews - Comparison of Classification methods
-AI Group project for module CS7IS2 of TCD
+
 
 ### Abstract
 In this work, three distinct methods of classification were implemented to predict the polarity of Amazon reviews.
