@@ -1,6 +1,6 @@
 # Comparative-Evaluation-of-Sentiment-Analysis-Techniques-on-Amazon-Reviews-
 Sentiment Analysis of Amazon Reviews - Comparison of Classification methods
-
+### Data https://figshare.com/articles/dataset/Amazon_Review_Polarity/13232501?file=25484027
 
 ### Abstract
 In this work, three distinct methods of classification were implemented to predict the polarity of Amazon reviews.
